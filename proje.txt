@@ -1,0 +1,15 @@
+ID Numarasi    Urun adi       Urun Kodu      Satici Firma   Alim Yapan     Alim Yaptiran  Alim Yaptiran Dep.  Durum          Alim Tarihi    Garanti T.     Garanti S.  Adet   Fiyat
+100000         masa           105            arcelik        harun          mehmet         muhasebe            yeni           1 .2 .2019     1 .2 .2019     2           60     1500    TL
+100001         sandalye       104            tekzen         ayse           firuze         BilgiIslem          Eski           1 .2 .2019     2 .3 .2018     2           150    350     TL
+100002         bilgisayar     29             asus           ali            fatih          finans              yeni           13.1 .2019     13.2 .2019     2           1      5500    TL
+100003         laptop         111            casper         kemal          serkan         Muhasebe            yeni           1 .3 .2019     2 .6 .2019     2           4      4500    TL
+100004         telefon        155            iphone         kudret         derya          muhasebe            eski           1 .2 .2019     1 .10.2017     2           2      2500    TL
+100005         mause          99             everest        emirhan        fatih          muhasebe            eski           1 .2 .2019     2 .3 .2016     2           2      650     TL
+100006         yazici         560            casper         furkan         emrullah       ev                  yeni           12.12.2019     12.12.2019     2           1      1       TL
+100008         kalem          99             silgi          acun           beyaz          finans              yeni           13.5 .2019     13.5 .2019     2           650    999     TL
+100009         silgi          99             fabel          acun           beyaz          finans              yeni           13.5 .2019     13.5 .2019     2           650    35      TL
+100010         klavye         88             everest        ahmet          seyma          finans              yeni           1 .2 .2020     1 .2 .2020     2           650    750     TL
+100011         batarya        65             asus           ali            sari           muhasebe            yeni           14.5 .2019     14.5 .2019     2           1      200     TL
+
+
+100012         tablet         666            iphone         tuncay         ridvan         finans              yeni           1 .1 .2019     1 .1 .2019     2           100    1500    TL
